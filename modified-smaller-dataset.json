@@ -1,0 +1,362 @@
+[
+  {
+    "accountId": "444555879",
+    "transactionId": "831ED03D-8CC6-35A5-970B-FD5C0EB0624F",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "eBay O*14-xxxxx-03977 - Visa Purchase - Receipt ${receipt_no} Sydney Date ${trans_date} Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-31T18:00:00+11:00",
+    "amount": "-8.08",
+    "currency": "",
+    "tag": "entertainment"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "88BDC0C2-B66A-6ED7-86EA-7620B0AEE22C",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "eBay O*14-xxxxx-03978 - Visa Purchase - Receipt ${receipt_no} Sydney Date ${trans_date} Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-31T18:00:00+11:00",
+    "amount": "-6.70",
+    "currency": "",
+    "tag":"entertainment"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "FFC8E57F-A50D-B9FB-A7D4-50B056989EC0",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "eBay O*14-xxxxx-03976 - Visa Purchase - Receipt ${receipt_no} Sydney Date ${trans_date} Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-31T18:00:00+11:00",
+    "amount": "-2.75",
+    "currency": "",
+    "tag":"entertainment"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "C6EBA57B-1921-3F94-3D9E-7108ABB8D0EB",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "eBay O*14-xxxxx-03975 - Visa Purchase - Receipt ${receipt_no} Sydney Date ${trans_date} Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-31T18:00:00+11:00",
+    "amount": "-3.51",
+    "currency": "",
+    "tag":"entertainment"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "D7142EFE-B637-733C-6167-416A7A62D3B0",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "ROLLD KOTARA - Visa Purchase - Receipt ${receipt_no} KOTARA Date ${trans_date} Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-31T18:00:00+11:00",
+    "amount": "-32.20",
+    "currency": "",
+    "tag":"food"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "BF4A2D61-6289-B879-460B-98EC63FA2D74",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "Amazon Australia Services - Visa Purchase - Receipt ${receipt_no} MELBOURNE Date ${trans_date} Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-30T18:00:00+11:00",
+    "amount": "-11.52",
+    "currency": "",
+    "tag":"other"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "F42F02DD-3F5C-CA35-DC3A-C3C36C0F11E7",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "AMAZON MKTPLC AU - Visa Purchase - Receipt ${receipt_no} SYDNEY SOUTH ${trans_date} 2022 Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-29T18:00:00+11:00",
+    "amount": "-26.57",
+    "currency": "",
+    "tag":"other"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "4D141E2F-97A1-32CC-FF74-4AE7AAF12D12",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "ENHANCE WARATAH - Visa Purchase - Receipt ${receipt_no} WARATAH Date ${trans_date} Card 462263xxxxxx9766",
+    "postingDateTime": "2022-01-29T18:00:00+11:00",
+    "amount": "-75.70",
+    "currency": "",
+    "tag":"gas"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "49667D5B-C5E8-0B37-0721-50D74249E86B",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "ELMAS on CLYDE - Visa Purchase - Receipt ${receipt_no} Hamilton Nor ${trans_date} 2022 Card 492910xxxxxx5089",
+    "postingDateTime": "2022-01-28T18:00:00+11:00",
+    "amount": "-4.93",
+    "currency": "",
+    "tag":"food"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "EFC9B415-F870-BBCC-4981-09A440A85599",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "AMAZON MKTPLC AU - Visa Purchase - Receipt ${receipt_no} SYDNEY SOUTH ${trans_date} 2022 Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-28T18:00:00+11:00",
+    "amount": "-19.58",
+    "currency": "",
+    "tag":"other"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "9E729ED3-2FA1-14A1-7002-863A0C2FEC45",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "NEWCASTLE HI TENSILE - Visa Purchase - Receipt ${receipt_no} Carrington Date ${trans_date} Card 492910xxxxxx5089",
+    "postingDateTime": "2022-01-28T18:00:00+11:00",
+    "amount": "-137.89",
+    "currency": "",
+    "tag":"other"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "48694416-BEE1-A2BE-F9E3-ED0493B82746",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "BUNNINGS 377000 - Visa Purchase - Receipt ${receipt_no} NEWCASTLE Date ${trans_date} Card 492910xxxxxx5089",
+    "postingDateTime": "2022-01-28T18:00:00+11:00",
+    "amount": "-40.80",
+    "currency": "",
+    "tag":"other"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "562A900F-C949-E3FE-50B8-1682BF20B868",
+    "isDetailAvailable": false,
+    "type": "TRANSFER_OUTGOING",
+    "status": "POSTED",
+    "description": "Rent - Transfer to  Real Estate Agency - Receipt ${receipt_no} To 939200 ${trans_date}   ",
+    "postingDateTime": "2022-01-27T18:00:00+11:00",
+    "amount": "-550.00",
+    "currency": "",
+    "tag":"residential"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "DC42826A-FA5D-E527-A65B-3A8EAEF3167B",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "COLES 0746 - Visa Purchase - Receipt ${receipt_no} WARATAH Date ${trans_date} Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-27T18:00:00+11:00",
+    "amount": "-29.38",
+    "currency": "",
+    "tag":"food"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "5618B305-B99A-6DDB-F73D-CA7930BF3BF6",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "COLES 0746 - Visa Purchase - Receipt ${receipt_no} WARATAH Date ${trans_date} Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-27T18:00:00+11:00",
+    "amount": "-16.13",
+    "currency": "",
+    "tag":"food"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "4A713C73-E61B-B9A6-1184-4F861DD88189",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "LIQUORLAND 3588 - Visa Purchase - Receipt ${receipt_no} WARATAH Date ${trans_date} Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-27T18:00:00+11:00",
+    "amount": "-54.45",
+    "currency": "",
+    "tag":"food"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "B3B7D058-7C11-C6F1-CF0B-54D93FC3B8EE",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "COLES 0746 - Visa Purchase - Receipt ${receipt_no} WARATAH Date ${trans_date} Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-27T18:00:00+11:00",
+    "amount": "-75.42",
+    "currency": "",
+    "tag":"food"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "DC6D3AB9-3275-BA21-7674-5FEF62694406",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "Receipt ${receipt_no}Foreign Currency Amount: USD 12.95In 310-xxx-xxx2 Date ${trans_date} Card 492910xxxxxx5089",
+    "postingDateTime": "2022-01-26T18:00:00+11:00",
+    "amount": "-17.52",
+    "currency": "",
+    "tag":"other"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "52F2909D-2AD6-C173-4BB1-A93C49DFBC16",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "OFFICEWORKS 0206 - Visa Purchase - Receipt ${receipt_no} NEWCASTLE W ${trans_date} 2022 Card 492910xxxxxx5089",
+    "postingDateTime": "2022-01-26T18:00:00+11:00",
+    "amount": "-6.38",
+    "currency": "",
+    "tag":"electronic"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "3C7D121C-CC05-D4E4-F92D-9C166A4DFEC4",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "PULSE CLIMBING - Visa Purchase - Receipt ${receipt_no} WARNERS BAY ${trans_date} 2022 Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-25T18:00:00+11:00",
+    "amount": "-6.58",
+    "currency": "",
+    "tag":"entertainment"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "16290E27-FA0E-71F0-8C2C-57349062C841",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "EXPRESSVPN.COM - Visa Purchase - Receipt ${receipt_no}Foreign Currency Amount: USD 12.95In 310-xxx-xxx2 Date ${trans_date} Card 492910xxxxxx5089",
+    "postingDateTime": "2022-01-24T18:00:00+11:00",
+    "amount": "-45.18",
+    "currency": "",
+    "tag":"electronic"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "E3A60435-F320-5839-3F6C-18EEF77CFF8B",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "Merewether Surfhouse - Visa Purchase - Receipt ${receipt_no} Merewether Date ${trans_date} Card 492910xxxxxx5089",
+    "postingDateTime": "2022-01-24T18:00:00+11:00",
+    "amount": "-27.55",
+    "currency": "",
+    "tag":"food"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "D2EC7B74-6498-E668-CB1D-CA4AD3EBC62C",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "COLES 0746 - Visa Purchase - Receipt ${receipt_no} WARATAH Date ${trans_date} Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-24T18:00:00+11:00",
+    "amount": "-84.98",
+    "currency": "",
+    "tag":"food"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "41E08DF3-CCA2-6EC3-43FC-CE135F569BE9",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "Audible Australia - Visa Purchase - Receipt ${receipt_no} MELBOURNE Date ${trans_date} Card 492910xxxxxx5089",
+    "postingDateTime": "2022-01-24T18:00:00+11:00",
+    "amount": "-3.69",
+    "currency": "",
+    "tag":"health"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "BBEF2C6A-E7ED-E820-CEB0-788B7B3BABE3",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "HERITAGE GARDENS NUR - Visa Purchase - Receipt ${receipt_no} ASHTONFIELD Date ${trans_date} Card 492910xxxxxx5089",
+    "postingDateTime": "2022-01-24T18:00:00+11:00",
+    "amount": "-44.64",
+    "currency": "",
+    "tag":"residential"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "D6C7C09F-51BA-EF8C-5F5B-F657E91E79B6",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "UBER   *EATS - Visa Purchase - Receipt ${receipt_no} SYDNEY Date ${trans_date} Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-24T18:00:00+11:00",
+    "amount": "-33.40",
+    "currency": "",
+    "tag":"food"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "BE67D882-01E7-172F-45C0-60615F512789",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "MASA MADRE - Visa Purchase - Receipt ${receipt_no} ABN 97 722 6 Date ${trans_date} Card 492910xxxxxx5089",
+    "postingDateTime": "2022-01-22T18:00:00+11:00",
+    "amount": "-30.57",
+    "currency": "",
+    "tag":"food"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "30614D06-4D66-3A17-0288-F9D79A74F2F6",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "AMAZON MKTPLC AU - Visa Purchase - Receipt ${receipt_no} SYDNEY SOUTH ${trans_date} 2022 Card 491684xxxxxx8665",
+    "postingDateTime": "2022-01-22T18:00:00+11:00",
+    "amount": "-76.58",
+    "currency": "",
+    "tag":"other"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "F362D33D-BCD6-E629-1092-B9D77A495B30",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "LIQUORLAND 3588 - Visa Purchase - Receipt ${receipt_no} WARATAH Date ${trans_date} Card 492910xxxxxx5089",
+    "postingDateTime": "2022-01-22T18:00:00+11:00",
+    "amount": "-24.72",
+    "currency": "",
+    "tag":"food"
+  }
+  {
+    "accountId": "444555879",
+    "transactionId": "43248B36-4A7B-1C5E-4993-58B5018B051A",
+    "isDetailAvailable": false,
+    "type": "PAYMENT",
+    "status": "POSTED",
+    "description": "ENHANCE WARATAH - Visa Purchase - Receipt ${receipt_no} WARATAH Date ${trans_date} Card 492910xxxxxx5089",
+    "postingDateTime": "2022-01-22T18:00:00+11:00",
+    "amount": "-55.95",
+    "currency": "",
+    "tag":"gas"
+  }
+]

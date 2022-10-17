@@ -1,0 +1,7 @@
+entertainment
+food
+other
+residential
+electronic
+health
+gas
